@@ -1,0 +1,76 @@
+0000.001 (0) Opened log file at time: Sat, 05 Apr 2025 05:58:17 +0000 on http://localhost/projet-dev-D8
+0000.002 (0) UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.25.3 WP: 6.7.2 PHP: 8.2.18 (apache2handler, Windows NT DEODATWEB 10.0 build 26100 (Windows 11) AMD64) MySQL: 8.3.0 (max packet size=67108864) WPLANG: fr_FR Server: Apache/2.4.59 (Win64) PHP/8.2.18 mod_fcgid/2.3.10-dev safe_mode: 0 max_execution_time: 900 memory_limit: 256M (used: 26.5M | 30M) multisite: N openssl: OpenSSL 3.0.13 30 Jan 2024 mcrypt: N LANG:  WP Proxy: disabled ZipArchive::addFile: Y
+0000.004 (0) Free space on disk containing Updraft's temporary directory: 356612.4 MB
+0000.011 (0) Tasks: Backup files: 1 (schedule: manual) Backup DB: 1 (schedule: manual)
+0000.015 (0) Requesting semaphore lock (fd) (apparently not via scheduler)
+0000.017 (0) Set semaphore last lock (fd) time to 2025-04-05 05:58:17
+0000.018 (0) Semaphore lock (fd) complete
+0000.022 (0) Backup run: resumption=0, nonce=6cb36583972e, file_nonce=6cb36583972e begun at=1743832697 (0s ago), job type=backup
+0000.024 (0) Scheduling a resumption (1) after 300 seconds (1743832997) in case this run gets aborted
+0000.027 (0) Checking if we have a zip executable available
+0000.029 (0) Creation of backups of directories: beginning
+0000.034 (0) Beginning creation of dump of plugins (split every: 400 MB)
+0005.430 (0) Total entities for the zip file: 2526 directories, 13305 files (0 skipped as non-modified), 185.4 MB
+0005.440 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 2.0 seconds have passed since the last write (0 MB, 1 (1) files added so far); re-opening (prior size: 0 KB)
+0005.549 (0) Zip: backup_2025-04-05-0758_La_vie_des_plantes_6cb36583972e-plugins.zip.tmp: 100 files added (on-disk size: 455.6 KB)
+0005.582 (0) Zip: backup_2025-04-05-0758_La_vie_des_plantes_6cb36583972e-plugins.zip.tmp: 200 files added (on-disk size: 455.6 KB)
+0005.614 (0) Zip: backup_2025-04-05-0758_La_vie_des_plantes_6cb36583972e-plugins.zip.tmp: 300 files added (on-disk size: 455.6 KB)
+0005.647 (0) Zip: backup_2025-04-05-0758_La_vie_des_plantes_6cb36583972e-plugins.zip.tmp: 400 files added (on-disk size: 455.6 KB)
+0005.678 (0) Zip: backup_2025-04-05-0758_La_vie_des_plantes_6cb36583972e-plugins.zip.tmp: 500 files added (on-disk size: 455.6 KB)
+0005.710 (0) Zip: backup_2025-04-05-0758_La_vie_des_plantes_6cb36583972e-plugins.zip.tmp: 600 files added (on-disk size: 455.6 KB)
+0005.729 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 25 MB added on this batch (25 MB, 13305 files batched, 649 (650) added so far); re-opening (prior size: 455.6 KB)
+0006.737 (0) A useful amount of data was added after this amount of zip processing: 2.1 s (normalised: 2.1 s, rate: 12222 KB/s)
+0006.740 (0) Performance is good - will increase the amount of data we attempt to batch (time=2.0955190658569, normalised_time=2.0945791004739, max_time=6.7380588054657, data points known=1, old_max_bytes=26214400, new_max_bytes=75092127)
+0006.780 (0) Zip: backup_2025-04-05-0758_La_vie_des_plantes_6cb36583972e-plugins.zip.tmp: 700 files added (on-disk size: 5998.9 KB)
+0006.813 (0) Zip: backup_2025-04-05-0758_La_vie_des_plantes_6cb36583972e-plugins.zip.tmp: 800 files added (on-disk size: 5998.9 KB)
+0006.846 (0) Zip: backup_2025-04-05-0758_La_vie_des_plantes_6cb36583972e-plugins.zip.tmp: 900 files added (on-disk size: 5998.9 KB)
+0006.879 (0) Zip: backup_2025-04-05-0758_La_vie_des_plantes_6cb36583972e-plugins.zip.tmp: 1000 files added (on-disk size: 5998.9 KB)
+0006.912 (0) Zip: backup_2025-04-05-0758_La_vie_des_plantes_6cb36583972e-plugins.zip.tmp: 1100 files added (on-disk size: 5998.9 KB)
+0006.945 (0) Zip: backup_2025-04-05-0758_La_vie_des_plantes_6cb36583972e-plugins.zip.tmp: 1200 files added (on-disk size: 5998.9 KB)
+0006.979 (0) Zip: backup_2025-04-05-0758_La_vie_des_plantes_6cb36583972e-plugins.zip.tmp: 1300 files added (on-disk size: 5998.9 KB)
+0007.012 (0) Zip: backup_2025-04-05-0758_La_vie_des_plantes_6cb36583972e-plugins.zip.tmp: 1400 files added (on-disk size: 5998.9 KB)
+0007.044 (0) Zip: backup_2025-04-05-0758_La_vie_des_plantes_6cb36583972e-plugins.zip.tmp: 1500 files added (on-disk size: 5998.9 KB)
+0007.079 (0) Zip: backup_2025-04-05-0758_La_vie_des_plantes_6cb36583972e-plugins.zip.tmp: 1600 files added (on-disk size: 5998.9 KB)
+0007.098 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (24.1 MB, 13305 files batched, 1001 (1651) added so far); re-opening (prior size: 5998.9 KB)
+0008.576 (0) Zip: backup_2025-04-05-0758_La_vie_des_plantes_6cb36583972e-plugins.zip.tmp: 1700 files added (on-disk size: 13273.1 KB)
+0008.610 (0) Zip: backup_2025-04-05-0758_La_vie_des_plantes_6cb36583972e-plugins.zip.tmp: 1800 files added (on-disk size: 13273.1 KB)
+0008.646 (0) Zip: backup_2025-04-05-0758_La_vie_des_plantes_6cb36583972e-plugins.zip.tmp: 1900 files added (on-disk size: 13273.1 KB)
+0008.681 (0) Zip: backup_2025-04-05-0758_La_vie_des_plantes_6cb36583972e-plugins.zip.tmp: 2000 files added (on-disk size: 13273.1 KB)
+0008.713 (0) Zip: backup_2025-04-05-0758_La_vie_des_plantes_6cb36583972e-plugins.zip.tmp: 2100 files added (on-disk size: 13273.1 KB)
+0008.745 (0) Zip: backup_2025-04-05-0758_La_vie_des_plantes_6cb36583972e-plugins.zip.tmp: 2200 files added (on-disk size: 13273.1 KB)
+0008.776 (0) Zip: backup_2025-04-05-0758_La_vie_des_plantes_6cb36583972e-plugins.zip.tmp: 2300 files added (on-disk size: 13273.1 KB)
+0008.809 (0) Zip: backup_2025-04-05-0758_La_vie_des_plantes_6cb36583972e-plugins.zip.tmp: 2400 files added (on-disk size: 13273.1 KB)
+0008.840 (0) Zip: backup_2025-04-05-0758_La_vie_des_plantes_6cb36583972e-plugins.zip.tmp: 2500 files added (on-disk size: 13273.1 KB)
+0008.874 (0) Zip: backup_2025-04-05-0758_La_vie_des_plantes_6cb36583972e-plugins.zip.tmp: 2600 files added (on-disk size: 13273.1 KB)
+0008.890 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (3.8 MB, 13305 files batched, 1001 (2652) added so far); re-opening (prior size: 13273.1 KB)
+0009.237 (0) Zip: backup_2025-04-05-0758_La_vie_des_plantes_6cb36583972e-plugins.zip.tmp: 2700 files added (on-disk size: 14725.9 KB)
+0009.272 (0) Zip: backup_2025-04-05-0758_La_vie_des_plantes_6cb36583972e-plugins.zip.tmp: 2800 files added (on-disk size: 14725.9 KB)
+0009.304 (0) Zip: backup_2025-04-05-0758_La_vie_des_plantes_6cb36583972e-plugins.zip.tmp: 2900 files added (on-disk size: 14725.9 KB)
+0009.337 (0) Zip: backup_2025-04-05-0758_La_vie_des_plantes_6cb36583972e-plugins.zip.tmp: 3000 files added (on-disk size: 14725.9 KB)
+0009.369 (0) Zip: backup_2025-04-05-0758_La_vie_des_plantes_6cb36583972e-plugins.zip.tmp: 3100 files added (on-disk size: 14725.9 KB)
+0009.401 (0) Zip: backup_2025-04-05-0758_La_vie_des_plantes_6cb36583972e-plugins.zip.tmp: 3200 files added (on-disk size: 14725.9 KB)
+0009.434 (0) Zip: backup_2025-04-05-0758_La_vie_des_plantes_6cb36583972e-plugins.zip.tmp: 3300 files added (on-disk size: 14725.9 KB)
+0009.474 (0) Zip: backup_2025-04-05-0758_La_vie_des_plantes_6cb36583972e-plugins.zip.tmp: 3400 files added (on-disk size: 14725.9 KB)
+0009.504 (0) Zip: backup_2025-04-05-0758_La_vie_des_plantes_6cb36583972e-plugins.zip.tmp: 3500 files added (on-disk size: 14725.9 KB)
+0009.536 (0) Zip: backup_2025-04-05-0758_La_vie_des_plantes_6cb36583972e-plugins.zip.tmp: 3600 files added (on-disk size: 14725.9 KB)
+0009.556 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (12.2 MB, 13305 files batched, 1001 (3653) added so far); re-opening (prior size: 14725.9 KB)
+0010.231 (0) Zip: backup_2025-04-05-0758_La_vie_des_plantes_6cb36583972e-plugins.zip.tmp: 3700 files added (on-disk size: 19262.5 KB)
+0010.267 (0) Zip: backup_2025-04-05-0758_La_vie_des_plantes_6cb36583972e-plugins.zip.tmp: 3800 files added (on-disk size: 19262.5 KB)
+0010.307 (0) Zip: backup_2025-04-05-0758_La_vie_des_plantes_6cb36583972e-plugins.zip.tmp: 3900 files added (on-disk size: 19262.5 KB)
+0010.355 (0) Zip: backup_2025-04-05-0758_La_vie_des_plantes_6cb36583972e-plugins.zip.tmp: 4000 files added (on-disk size: 19262.5 KB)
+0010.397 (0) Zip: backup_2025-04-05-0758_La_vie_des_plantes_6cb36583972e-plugins.zip.tmp: 4100 files added (on-disk size: 19262.5 KB)
+0010.440 (0) Zip: backup_2025-04-05-0758_La_vie_des_plantes_6cb36583972e-plugins.zip.tmp: 4200 files added (on-disk size: 19262.5 KB)
+0010.484 (0) Zip: backup_2025-04-05-0758_La_vie_des_plantes_6cb36583972e-plugins.zip.tmp: 4300 files added (on-disk size: 19262.5 KB)
+0010.527 (0) Zip: backup_2025-04-05-0758_La_vie_des_plantes_6cb36583972e-plugins.zip.tmp: 4400 files added (on-disk size: 19262.5 KB)
+0010.569 (0) Zip: backup_2025-04-05-0758_La_vie_des_plantes_6cb36583972e-plugins.zip.tmp: 4500 files added (on-disk size: 19262.5 KB)
+0010.606 (0) Zip: backup_2025-04-05-0758_La_vie_des_plantes_6cb36583972e-plugins.zip.tmp: 4600 files added (on-disk size: 19262.5 KB)
+0010.629 (0) Adding batch to zip file (UpdraftPlus_ZipArchive): over 1000 files added on this batch (20.8 MB, 13305 files batched, 1001 (4654) added so far); re-opening (prior size: 19262.5 KB)
+0012.211 (0) User request for abort: backup job will be immediately halted
+0012.214 (0) Decremented the semaphore (fd) by 1
+0012.216 (0) Semaphore (fd) unlocked
+0012.217 (0) There were no errors in the uploads, so the 'resume' event (1) is being unscheduled
+0012.220 (0) Fetching RSS news feed
+0012.619 (0) Fetched RSS news feed; result is a: SimplePie\SimplePie
+0012.631 (0) Sending email ('La sauvegarde a été annulée par le compte') report (attachments: 0, size: 0 KB) to: deoda...
+0012.634 (0) An error occurred when sending a backup report email and/or backup file(s) via email (wp_mail_failed): Invalid address:  (From): wordpress@localhost
+0012.635 (0) La sauvegarde a été annulée par le compte
