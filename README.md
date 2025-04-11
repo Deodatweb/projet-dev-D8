@@ -6,7 +6,6 @@ Ce projet WordPress a été développé localement avec WAMP.
 
 1. Cloner le repo
 2. Importer la base de données `db_laviedesplantes.sql`
-3. Modifier le fichier `wp-config.php` avec les infos de ta base - 
 
 ## Infos
 
